@@ -12,7 +12,7 @@
 
 ### &#x1f50d; &#x44;&#x65;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x69;&#x6f;&#x6e;
 <p align="left">
-<b>&#x41;&#x49;&#x44;&#x45;&#x2b;&#x20;&#x50;&#x72;&#x6f;</b> &#x69;&#x73;&#x20;&#x61;&#x20;&#x63;&#x6f;&#x6d;&#x70;&#x72;&#x65;&#x68;&#x65;&#x6e;&#x73;&#x69;&#x76;&#x65;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x61;&#x64;&#x76;&#x61;&#x6e;&#x63;&#x65;&#x64;&#x20;&#x69;&#x6e;&#x74;&#x65;&#x67;&#x72;&#x61;&#x74;&#x65;&#x64;&#x20;&#x64;&#x65;&#x76;&#x65;&#x6c;&#x6f;&#x70;&#x6d;&#x65;&#x6e;&#x74;&#x20;&#x65;&#x6e;&#x76;&#x69;&#x72;&#x6f;&#x6e;&#x6d;&#x65;&#x6e;&#x74;&#x20;&#x66;&#x6f;&#x72;&#x20;&#x62;&#x75;&#x69;&#x6c;&#x64;&#x69;&#x6e;&#x67;&#x20;&#x41;&#x6e;&#x64;&#x72;&#x6f;&#x69;&#x64;&#x20;&#x61;&#x70;&#x70;&#x6c;&#x69;&#x63;&#x61;&#x74;&#x69;&#x6f;&#x6e;&#x73;&#x20;&#x64;&#x69;&#x72;&#x65;&#x63;&#x74;&#x6c;&#x79;&#x20;&#x66;&#x72;&#x6f;&#x6d;&#x20;&#x79;&#x6f;&#x75;&#x72;&#x20;&#x73;&#x6d;&#x61;&#x72;&#x74;&#x70;&#x68;&#x6f;&#x6e;&#x65;&#x2e;
+<b>&#x41;&#x49;&#x44;&#x45;&#x2b;&#x20;&#x50;&#x72;&#x6f;</b> &#x69;&#x73;&#x20;&#x61;&#x20;&#x63;&#x6f;&#x6d;&#x70;&#x72;&#x65;&#x68;&#x65;&#x6e;&#x73;&#x69;&#x76;&#x65;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x61;&#x64;&#x76;&#x61;&#x6e;&#x63;&#x65;&#x64;&#x20;&#x69;&#x6e;&#x74;&#x65;&#x67;&#x72;&#x61;&#x74;&#x65;&#x64;&#x20;&#x64;&#x65;&#x76;&#x65;&#x6c;&#x6f;&#x70;&#x6d;&#x65;&#x6e;&#x74;&#x20;&#x65;&#x6e;&#x76;&#x69;&#x72;&#x6f;&#x6e;&#x6d;&#x65;&#x6e;&#x74;&#x20;&#x66;&#x6f;&#x72;&#x20;&#x62;&#x75;&#x69;&#x6c;&#x64;&#x69;&#x6e;&#x67;&#x20;&#x41;&#x6e;&#x64;&#x72;&#x6f;&#x69;&#x64;&#x20;&#x61;&#x70;&#x70;&#x6c;&#x69;&#x63;&#x61;&#x74;&#x69;&#x6f;&#x6e;&#x73;&#x20;&#x64;&#x69;&#x72;&#x65;&#x63;&#x74;&#x6c;&#x79;&#x20;&#x66;&#x72;&#x6f;&#x6d;&#x20;&#x79;&#x6f;&#x75;&#x20;&#x73;&#x6d;&#x61;&#x72;&#x74;&#x70;&#x68;&#x6f;&#x6e;&#x65;&#x2e;
 </p>
 
 ---
@@ -46,8 +46,8 @@
   <a href="https://t.me/MODBASHA">
     <img src="https://img.shields.io/badge/Telegram-MOD%20BASHA-red?style=for-the-badge&logo=telegram" />
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb7ydyT9Gv7VgRyTyG0U">
-    <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp" />
+  <a href="https://wa.me/qr/DDY2DPIILZ7NM1">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp" />
   </a>
 </div>
 
