@@ -8,22 +8,16 @@
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/VERSION-PRO_EDITION-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NDK-REQUIRED-black?style=for-the-badge" />
-</div>
-
 ---
 
-<h2 align="right" style="color: #FF0000;">&#x1f4bb; &#x0648;&#x0635;&#x0641;&#x20;&#x0627;&#x0644;&#x0645;&#x0634;&#x0631;&#x0648;&#x0639;</h2>
-
-<p align="right" dir="rtl">
-تطبيق <b>AIDE+ Pro</b> هو البيئة التطويرية المتكاملة والمتقدمة لبناء تطبيقات الأندرويد مباشرة من هاتفك. النسخة الاحترافية تدعم تطوير لغات البرمجة Java و C++ مع توفير كامل الأدوات التي يحتاجها المطورون والباحثون الأمنيون.
+### &#x1f50d; &#x44;&#x65;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x69;&#x6f;&#x6e;
+<p align="left">
+<b>&#x41;&#x49;&#x44;&#x45;&#x2b;&#x20;&#x50;&#x72;&#x6f;</b> &#x69;&#x73;&#x20;&#x61;&#x20;&#x63;&#x6f;&#x6d;&#x70;&#x72;&#x65;&#x68;&#x65;&#x6e;&#x73;&#x69;&#x76;&#x65;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x61;&#x64;&#x76;&#x61;&#x6e;&#x63;&#x65;&#x64;&#x20;&#x69;&#x6e;&#x74;&#x65;&#x67;&#x72;&#x61;&#x74;&#x65;&#x64;&#x20;&#x64;&#x65;&#x76;&#x65;&#x6c;&#x6f;&#x70;&#x6d;&#x65;&#x6e;&#x74;&#x20;&#x65;&#x6e;&#x76;&#x69;&#x72;&#x6f;&#x6e;&#x6d;&#x65;&#x6e;&#x74;&#x20;&#x66;&#x6f;&#x72;&#x20;&#x62;&#x75;&#x69;&#x6c;&#x64;&#x69;&#x6e;&#x67;&#x20;&#x41;&#x6e;&#x64;&#x72;&#x6f;&#x69;&#x64;&#x20;&#x61;&#x70;&#x70;&#x6c;&#x69;&#x63;&#x61;&#x74;&#x69;&#x6f;&#x6e;&#x73;&#x20;&#x64;&#x69;&#x72;&#x65;&#x63;&#x74;&#x6c;&#x79;&#x20;&#x66;&#x72;&#x6f;&#x6d;&#x20;&#x79;&#x6f;&#x75;&#x72;&#x20;&#x73;&#x6d;&#x61;&#x72;&#x74;&#x70;&#x68;&#x6f;&#x6e;&#x65;&#x2e;
 </p>
 
 ---
 
-<h2 align="right" style="color: #FF0000;">&#x1f4e5; &#x0642;&#x0633;&#x0645;&#x20;&#x0627;&#x0644;&#x062a;&#x062d;&#x0645;&#x064a;&#x0644;</h2>
+### &#x1f680; &#x44;&#x6f;&#x77;&#x6e;&#x6c;&#x6f;&#x61;&#x64;&#x20;&#x53;&#x65;&#x63;&#x74;&#x69;&#x6f;&#x6e;
 
 <div align="center">
   <a href="https://github.com/BASHARIP/AIDE-Pro/releases/download/0.0/AIDE+.Pro.apk">
@@ -39,27 +33,26 @@
 
 ---
 
-<h2 align="right" style="color: #FF0000;">&#x26a0;&#xfe0f; &#x062a;&#x0646;&#x0628;&#x064a;&#x0647;&#x20;&#x0647;&#x0627;&#x0645;</h2>
-
-<p align="right" dir="rtl">
-لضمان عمل التطبيق بكفاءة وقدرته على ترجمة الأكواد البرمجية (Compilation)، يجب عليك تحميل حزمة <b>NDK</b> المرفقة أعلاه وفك ضغطها في المسار المخصص داخل التطبيق.
+### &#x26a0;&#xfe0f; &#x49;&#x6d;&#x70;&#x6f;&#x72;&#x74;&#x61;&#x6e;&#x74;&#x20;&#x4e;&#x6f;&#x74;&#x65;
+<p align="left">
+&#x54;&#x6f;&#x20;&#x65;&#x6e;&#x73;&#x75;&#x72;&#x65;&#x20;&#x74;&#x68;&#x65;&#x20;&#x61;&#x70;&#x70;&#x6c;&#x69;&#x63;&#x61;&#x74;&#x69;&#x6f;&#x6e;&#x20;&#x66;&#x75;&#x6e;&#x63;&#x74;&#x69;&#x6f;&#x6e;&#x73;&#x20;&#x63;&#x6f;&#x72;&#x72;&#x65;&#x63;&#x74;&#x6c;&#x79;&#x2c;&#x20;&#x79;&#x6f;&#x75;&#x20;&#x6d;&#x75;&#x73;&#x74;&#x20;&#x64;&#x6f;&#x77;&#x6e;&#x6c;&#x6f;&#x61;&#x64;&#x20;&#x74;&#x68;&#x65;&#x20;&#x4e;&#x44;&#x4b;&#x20;&#x70;&#x61;&#x63;&#x6b;&#x61;&#x67;&#x65;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x65;&#x78;&#x74;&#x72;&#x61;&#x63;&#x74;&#x20;&#x69;&#x74;&#x20;&#x69;&#x6e;&#x74;&#x6f;&#x20;&#x74;&#x68;&#x65;&#x20;&#x61;&#x70;&#x70;&#x6c;&#x69;&#x63;&#x61;&#x74;&#x69;&#x6f;&#x6e;&#x2e;
 </p>
 
 ---
 
-<h2 align="right" style="color: #FF0000;">&#x1f4ac; &#x0627;&#x0644;&#x062a;&#x0648;&#x0627;&#x0635;&#x0644;</h2>
+### &#x1f465; &#x43;&#x6f;&#x6e;&#x6e;&#x65;&#x63;&#x74;&#x20;&#x77;&#x69;&#x74;&#x68;&#x20;&#x44;&#x65;&#x76;&#x65;&#x6c;&#x6f;&#x70;&#x65;&#x72;
 
 <div align="center">
   <a href="https://t.me/MODBASHA">
     <img src="https://img.shields.io/badge/Telegram-MOD%20BASHA-red?style=for-the-badge&logo=telegram" />
   </a>
   <a href="https://whatsapp.com/channel/0029Vb7ydyT9Gv7VgRyTyG0U">
-    <img src="https://img.shields.io/badge/WhatsApp-Channel-075e54?style=for-the-badge&logo=whatsapp" />
+    <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <b style="color: #FF0000;">&#x00a9; &#x32;&#x30;&#x32;&#x36;&#x20;&#x4d;&#x4f;&#x44;&#x20;&#x42;&#x41;&#x53;&#x48;&#x41;</b>
+  <b style="color: #FF0000;">&#x00a9;&#x20;&#x32;&#x30;&#x32;&#x36;&#x20;&#x4d;&#x4f;&#x44;&#x20;&#x42;&#x41;&#x53;&#x48;&#x41;</b>
 </div>
